@@ -16,10 +16,12 @@
     display: flex;
     list-style: none;
  }
+ 
  .navlist ul li:first-child{
     flex: 1;
     color: #ffffff;
  }
+ 
  .navlist ul li h4{
     font-family: serif;
  }
@@ -31,6 +33,7 @@
     color: white;
     text-decoration: none;
  }
+
  .navlist ul a:hover{
     color: #ff8800;
  }
@@ -123,4 +126,11 @@
  .container .column:hover a:last-child{
     height: 100%;
     top: 0;
+ }
+
+
+ .image{
+   padding-left: 10vh;
+   padding-top: 10vh;
+
  }
