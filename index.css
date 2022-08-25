@@ -64,6 +64,7 @@
    margin-bottom: 40px;
 }
 .main-box button{
+   font-family: "Century Gothic", sans-serif;
    padding: 10px;
    border: none;
    outline: none;
@@ -71,7 +72,17 @@
    border: 1px solid #ff8800;
    color: #ffffff;
 }
+.main-box button a{
+   display: block;
+   text-align: center;
+   font-family: "Century Gothic", sans-serif;
+   font-size: 0.9rem;
+   color: white;
+   text-decoration: none;
+}
+
 .main-box button:hover{
+   font-family: "Century Gothic", sans-serif;
    background: #ff8800;
 }
 
