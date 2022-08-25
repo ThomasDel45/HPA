@@ -55,12 +55,13 @@
  
  .main-box h1{
     word-spacing: 8px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     font-family: serif;
+    font-size: 40px;
  }
  .main-box p{
     font-family: "Century Gothic", sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     letter-spacing: 1.4px;
     margin-bottom: 40px;
  }
