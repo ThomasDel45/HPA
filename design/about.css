@@ -42,7 +42,7 @@
  
  .main-box{
     width: 100%;
-    height: 120vh;
+    height: 100vh;
     background-image: linear-gradient(#491d1dbb, #000000bb), url(../images/hpa_back.jpg), url(../images/hpa_back.jpg), url(../images/hpa_back.jpg);
     min-height: 100%;
     background-position: center;
