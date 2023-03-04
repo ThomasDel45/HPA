@@ -50,7 +50,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: local;
+    background-attachment: scroll, local;
     color: #ffffff;
     text-align: center;
     padding-top: 5vh;
